@@ -1,1 +1,3 @@
-# protect-vision
+# 这是一个使用golang编写windows提示弹框
+
+主要功能为提醒用户遵循 20 20 20 法则，保护视力
